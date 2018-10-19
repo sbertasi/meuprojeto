@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sbert
+ *
+ */
+module course {
+}
